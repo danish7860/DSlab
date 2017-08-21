@@ -1,5 +1,6 @@
 #include <stdio.h>
 #include <conio.h>
+#include <ctype.h>
 #include <stdlib.h>
 
 #define MAX 20
